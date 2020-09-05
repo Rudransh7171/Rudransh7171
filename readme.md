@@ -1,8 +1,8 @@
 ### Hello there! I'm Rudransh👋
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rudransh7171 &bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true" alt="Rudransh7171's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rudransh7171&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true" alt="Rudransh7171's github stats" />
 <br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rudransh7171 &bg_color=30,e96443,904e95&title_color=fff&text_color=fff&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rudransh7171&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&layout=compact" />
 <br>
 
 <img src="https://i1.wp.com/slfgchurch.com/wp-content/uploads/2019/08/lets-connect-1.png?ssl=1" alt="connect" width="20%" height="10%">
