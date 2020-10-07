@@ -10,6 +10,9 @@
   
 <a href="https://www.hackerrank.com/rudrasingh731811">
   <img src="https://additionalknowledge.files.wordpress.com/2017/12/hackerrank.png?w=600" height="10%" ; width="15%" ;></img></a>
- ![image]( https://github.com/Rudransh7171/Rudransh7171/blob/master/codinngg.gif)
+ 
+ 
+ 
+ ![image](https://github.com/Rudransh7171/Rudransh7171/blob/master/codinngg.gif)
 
 
