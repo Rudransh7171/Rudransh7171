@@ -13,6 +13,6 @@
  
  
  
- ![image](https://github.com/Rudransh7171/Rudransh7171/blob/master/codinngg.gif)
+ ![image](https://github.com/Rudransh7171/portfolio/blob/master/ezgif.com-video-to-gif.gif)
 
 
